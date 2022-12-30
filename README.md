@@ -1,16 +1,11 @@
-# pokedex
+Mobile app developed with Flutter 3.0.0
 
-A new Flutter project.
+project config requirements:
 
-## Getting Started
+Flutter SDK 3.0.0 or higher. Visual Studio Code
 
-This project is a starting point for a Flutter application.
+Steps to use the project:
 
-A few resources to get you started if this is your first Flutter project:
+git clone from this repository. open file on VS Code. run command: "flutter pub get" run the app and enjoy!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Developer: Josealdo Camogliano
